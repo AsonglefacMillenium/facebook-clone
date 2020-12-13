@@ -32,7 +32,7 @@ function Header() {
         <
         input type = "text"
         placeholder = "Search Facebook"
-        className = "input" / > < /
+        className = "input0" / > < /
         div > < /
         div >
         <
