@@ -30,6 +30,10 @@ function StoryReal() {
         Story image = "https://web.facebook.com/photo/?fbid=1364362047240123&set=a.1036696930006638&__cft__[0]=AZVwQ0Ndb_n2LtYi4jicUZoF8pVI5PGCNNIadZ9ajSnCNCazDEhk0jFcGg1IX-otMsuFY2qugM0Arn3bMXpGbvhoC54jbyKj0DsrdeHg-KjUT4UFFw2kLXryfWCk9k_uxbU&__tn__=EH-Rhttps://web.facebook.com/photo/?fbid=1364362047240123&set=a.1036696930006638&__cft__[0]=AZVwQ0Ndb_n2LtYi4jicUZoF8pVI5PGCNNIadZ9ajSnCNCazDEhk0jFcGg1IX-otMsuFY2qugM0Arn3bMXpGbvhoC54jbyKj0DsrdeHg-KjUT4UFFw2kLXryfWCk9k_uxbU&__tn__=EH-R"
         profileSrc = "https://web.facebook.com/photo/?fbid=1214114595598203&set=pob.100009990212871"
         title = "Asong Millenium" / >
+        <
+        Story image = "https://web.facebook.com/photo/?fbid=1364362047240123&set=a.1036696930006638&__cft__[0]=AZVwQ0Ndb_n2LtYi4jicUZoF8pVI5PGCNNIadZ9ajSnCNCazDEhk0jFcGg1IX-otMsuFY2qugM0Arn3bMXpGbvhoC54jbyKj0DsrdeHg-KjUT4UFFw2kLXryfWCk9k_uxbU&__tn__=EH-Rhttps://web.facebook.com/photo/?fbid=1364362047240123&set=a.1036696930006638&__cft__[0]=AZVwQ0Ndb_n2LtYi4jicUZoF8pVI5PGCNNIadZ9ajSnCNCazDEhk0jFcGg1IX-otMsuFY2qugM0Arn3bMXpGbvhoC54jbyKj0DsrdeHg-KjUT4UFFw2kLXryfWCk9k_uxbU&__tn__=EH-R"
+        profileSrc = "https://web.facebook.com/photo/?fbid=1214114595598203&set=pob.100009990212871"
+        title = "Asong Millenium" / >
 
 
         <

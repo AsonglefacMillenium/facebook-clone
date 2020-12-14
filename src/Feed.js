@@ -1,6 +1,7 @@
 import React from "react";
 import "./Feed.css";
 import StoryReal from "./StoryReal";
+import MessageSend from "./MessageSend";
 
 function Feed() {
     return ( <
@@ -9,6 +10,9 @@ function Feed() {
 
         <
         StoryReal / >
+        <
+        MessageSend / >
+
         <
         / div >
     );
