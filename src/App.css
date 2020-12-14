@@ -1,8 +1,9 @@
-.app {
+.App {
     height: 100vh;
-    background-color: #f1f2f5;
+    background-color: rgb(241, 238, 238);
 }
 
 .app_body {
     display: flex;
+    background-color: rgb(241, 238, 238);
 }
